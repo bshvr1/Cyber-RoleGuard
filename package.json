@@ -1,0 +1,17 @@
+{
+  "name": "cyber-rguard",
+  "version": "0.0.1",
+  "description": "cyber RGuard Bot",
+  "main": "cyber.js",
+  "scripts": {
+    "test": "node cyber.js"
+  },
+  "author": "cyber",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.0",
+    "mongoose": "^5.11.15"
+  },
+  "keywords": []
+}
